@@ -35,3 +35,4 @@ if __name__ == '__main__':
     stu = s.read_info()
     s.file_path = r'./ceshi.txt'
     s.write_info(stu)
+    

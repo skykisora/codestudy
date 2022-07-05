@@ -42,3 +42,4 @@ class Student:
     def set_qq(self, qq):
         self.qq = qq
 
+

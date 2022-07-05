@@ -18,7 +18,6 @@ def run():
             stu_dict[stu.id] = stu
             data.write_info(stu_dict)
         elif select_type == 2:
-            
             print("2没有写")
         elif select_type == 3:
             print("3没有写")
